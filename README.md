@@ -26,9 +26,8 @@ Features:
   <img src="https://github.com/DeltaVetal26/ElevatorModel-2.0/blob/main/readmeImages/Controller_V1-min.jpg?raw=true" width="500" height="667">
   <img src="https://github.com/DeltaVetal26/ElevatorModel-2.0/blob/main/readmeImages/ControllerV2-min.jpg?raw=true" width="500" height="667">  
 </p>
-
+<p align="center">
 <img src="https://github.com/DeltaVetal26/ElevatorModel-2.0/blob/main/readmeImages/MainV.jpg?raw=true" width="500" height="1162">
 <img src="https://github.com/DeltaVetal26/ElevatorModel-2.0/blob/main/readmeImages/FloorIndicator-min.jpg?raw=true" width="600" height="809">
-
-
+</p>
 
